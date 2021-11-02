@@ -6,6 +6,7 @@ public class Main {
         Bor b1 = new Bor("asd", 1000);
         Aszu a1 = new Aszu(1200, 20);
 
-        System.out.println(a1);
+        Futtathato.kiirBor(b1);
+        Futtathato.kiirBor(a1);
     }
 }
