@@ -1,7 +1,15 @@
 package hu.petrik;
 
 public class Bor {
+
+    /**
+     * String, a bor fajtája.
+     */
     private String fajta;
+
+    /**
+     * Int, a bor évjárata.
+     */
     private int evJarat;
 
     public Bor(String fajta, int evJarat) {

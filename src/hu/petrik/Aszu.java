@@ -1,6 +1,9 @@
 package hu.petrik;
 
 public class Aszu extends Bor{
+    /**
+     * Int, az aszu puttony értéke.
+     */
     private int puttony;
 
     public Aszu(int evJarat, int puttony) {
